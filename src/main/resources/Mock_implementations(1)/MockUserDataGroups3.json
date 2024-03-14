@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "username": "TheClumsyNinja",
+      "password": "fallingmaster123",
+      "email": "theclumsyninja@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "CaptainObvious",
+      "password": "itsapassword",
+      "email": "captainobvious@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "DrunkPanda",
+      "password": "bamboozled2022",
+      "email": "drunkpanda@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "TheJoker",
+      "password": "laughtertherapy",
+      "email": "thejoker@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "TheIncredibleSulk",
+      "password": "angermanagement",
+      "email": "theincrediblesulk@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "PranksterPete",
+      "password": "gigglesgalore",
+      "email": "pranksterpete@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "BananaBandit",
+      "password": "peelstealdeal123",
+      "email": "bananabandit@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "WittyWizard",
+      "password": "spellboundlaughter",
+      "email": "wittywizard@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "SillySloth",
+      "password": "slothysmile2024",
+      "email": "sillysloth@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "ChuckleChampion",
+      "password": "gigglestogain789",
+      "email": "chucklechampion@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "JesterJack",
+      "password": "jovialjokes123",
+      "email": "jesterjack@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "QuipQueen",
+      "password": "witandwhimsy456",
+      "email": "quipqueen@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "LaughingLion",
+      "password": "roaringlaughs2023",
+      "email": "laughinglion@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "GiggleGuru",
+      "password": "laughtertherapy321",
+      "email": "giggleguru@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "ChucklingChipmunk",
+      "password": "nuttyhumor2024",
+      "email": "chucklingchipmunk@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "HumorHero",
+      "password": "jokesforjustice2025",
+      "email": "humorhero@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "JovialJester",
+      "password": "smilesandsnickers123",
+      "email": "jovialjester@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "GuffawGoblin",
+      "password": "gigglesandguffaws456",
+      "email": "guffawgoblin@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "WhimsicalWit",
+      "password": "wittywhimsies789",
+      "email": "whimsicalwit@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "MirthfulMongoose",
+      "password": "merrimentandmirth2026",
+      "email": "mirthfulmongoose@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "SnickerSage",
+      "password": "sagesnickers123",
+      "email": "snickersage@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "GigglingGargoyle",
+      "password": "guffawinggargoyle456",
+      "email": "gigglinggargoyle@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "GrinningGiraffe",
+      "password": "giraffegrins789",
+      "email": "grinninggiraffe@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "WittyWarlock",
+      "password": "wickedwit2027",
+      "email": "wittywarlock@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    },
+    {
+      "username": "JocularJaguar",
+      "password": "jovialjokesandlaughs123",
+      "email": "jocularjaguar@hindeburg.ac.uk",
+      "role": "Student"
+    },
+    {
+      "username": "ChucklingCheetah",
+      "password": "cheetahchuckles456",
+      "email": "chucklingcheetah@hindeburg.ac.uk",
+      "role": "AdminStaff"
+    }
+  ]
+}
